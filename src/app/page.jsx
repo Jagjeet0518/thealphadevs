@@ -8,6 +8,9 @@ const Page = () => {
       <p className="text-center text-white/75 text-2xl font-medium mt-8 font-mono">
         Your Search Ends Here.
       </p>
+      <p>
+        Contact me <a href="mailto:contact@thealphadevs.xyz" className="text-blue-500">here</a>.
+      </p>
     </main>
   )
 }
